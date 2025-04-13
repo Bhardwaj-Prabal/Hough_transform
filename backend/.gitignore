@@ -1,0 +1,28 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Uploaded files
+uploads/
+results/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs and miscellaneous
+*.log
+*.sqlite3
+*.db
+
+# VSCode or other IDE settings (optional)
+.vscode/
+.idea/
